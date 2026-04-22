@@ -1,1 +1,1 @@
-# Sistema_Experto_Partes_Tarea2
+En este repositorio se desglosa la informacion de las principales partes de un sistema experto.
